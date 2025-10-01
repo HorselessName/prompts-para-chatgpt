@@ -868,7 +868,7 @@ Contribuído por: [@HorselessName](https://github.com/horselessname)
 > - **Comportamento Esperado vs. Comportamento Real:**
 >     - Descreva o que você esperava que acontecesse. "I expected the output to be..."
 >     - Descreva o que realmente aconteceu, incluindo a **mensagem de erro completa e exata**. "Instead, I'm getting the following error:..."
-> - **Pesquisa e Tentativas:** Mencione o que você já tentou para resolver o problema. Isso mostra esforço e ajuda os outros a não sugerirem soluções que você já descartou. "I have already tried..." ou > > "I've looked at the official documentation for [feature] and searched for similar errors like..."
+> - **Pesquisa e Tentativas:** Mencione o que você já tentou para resolver o problema. Isso mostra esforço e ajuda os outros a não sugerirem soluções que você já descartou. "I have already tried..." ou "I've looked at the official documentation for [feature] and searched for similar errors like..."
 > - **A Pergunta Final:** Termine com uma pergunta clara e direta. "What am I doing wrong here?" ou "Is there a specific syntax rule I am missing?"
 > 
 > **4. Tags:**
