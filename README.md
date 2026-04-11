@@ -71,9 +71,10 @@ as suas utilizações. Esses prompts funcionam para diversos agentes, como, Chat
 
 Também, seguir a estrutura dos prompts atuais não é obrigatoriamente uma regra, podendo você adaptar e testar diferentes formas e combinações de palavras... Porém, tente sempre seguir o padrão e a estrutura do prompt original para maior assertividade.
 
+## Prompt Template q aumenta Reasoning/Thinking + Desempenho dos Agentes
+
 **Utilidade:** Existe uma forma que você consegue melhorar AINDA MAIS a efetividade dos prompts abaixo. Você pode incrementar o modelo de prompt abaixo usando os prompts de 'Atue Como' abaixo, que incorpora múltiplas técnicas de prompt para os tornar mais eficazes e fazer os agentes a pensar por mais tempo, e trabalhar melhor. Porém, **use esse modelo com cautela**, visto que, ele faz com que os agentes utilizem MUITOS mais tokens do que o normal (Apenas esse template abaixo que faz isso, não os prompts abaixo de _Atue Como_, os fora desse template, somente como _Atue Como_, não fazem isso, então pode ficar tranquilo), onde, ocorrendo casos que, dependendo da sua demanda, se você escolher um agente mais caro, o valor de cada resposta pode sair de $3 à $5, ou mais (Dólares). Então, reforço para você utilizar com cuidado e cautela.
 
-## Prompt Template q aumenta Reasoning/Thinking + Desempenho dos Agentes
 Contribuído por: Contribuído por: [@HorselessName](https://github.com/horselessname)
 
 > PAPEL E DIRETRIZ COGNITIVA (ROLE AND COGNITIVE DIRECTIVE)
